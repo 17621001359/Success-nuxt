@@ -6,7 +6,7 @@
         <h1 class="logo-font">周六之最终篇8到周日了         拉勾教育</h1>
         <p>A place to share your knowledge.</p>
       </div>
-    </div>
+    </div>  
 
     <div class="container page">
       <div class="row">
